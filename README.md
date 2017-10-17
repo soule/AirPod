@@ -1,4 +1,5 @@
-#Air Pod
+Air Pod
+=======
 
 I developed this iOS game using Objective-C and the the Sparrow Framework.
 
@@ -12,10 +13,10 @@ This is only the sourcecode portion, and will need to be established in a proper
 
 ##Screenshots 
 
-![Main Menu](screenshot-menu.png?raw=true)
-![In-game screenshot](screenshot-ingame0.png?raw=true)
-![In-game screenshot](screenshot-ingame1.png?raw=true)
-![Difficulty Menu](screenshot-menu1.png?raw=true)
-![In-game screenshot](screenshot-ingame2.png?raw=true)
+![Main Menu](screenshot-menu.png)
+![In-game screenshot](screenshot-ingame0.png)
+![In-game screenshot](screenshot-ingame1.png)
+![Difficulty Menu](screenshot-menu1.png)
+![In-game screenshot](screenshot-ingame2.png)
 
 
