@@ -17,7 +17,7 @@ Screenshots
 ![Main Menu](screenshot-menu.jpeg)
 ![In-game screenshot](screenshot-ingame0.jpeg)
 ![In-game screenshot](screenshot-ingame1.jpeg)
-![Difficulty Menu](screenshot-menu1.jpeg)
+![Difficulty Menu](screenshot-menu2.jpeg)
 ![In-game screenshot](screenshot-ingame2.jpeg)
 
 
