@@ -1,11 +1,3 @@
-//
-//  Map.m
-//  SBTilemaps
-//
-//  Created by Souleiman Benhida on 10/5/12.
-//
-//
-
 #import "Map.h"
 
 @implementation Map

@@ -1,11 +1,3 @@
-//
-//  JetPod.m
-//  Jet Pod
-//
-//  Created by Souleiman Benhida on 8/28/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
-//
-
 #import "Pod.h"
 #import "Map.h"
 

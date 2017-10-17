@@ -1,7 +1,3 @@
-//
-//  Play.h
-//  AppScaffold
-//
 #import <Foundation/Foundation.h>
 #import "Map.h"
 #import "Pod.h"

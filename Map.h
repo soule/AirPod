@@ -1,11 +1,3 @@
-//
-//  Map.h
-//  SBTilemaps
-//
-//  Created by Souleiman Benhida on 10/5/12.
-//
-//
-
 #import "SPSprite.h"
 
 @interface Map : SPSprite {

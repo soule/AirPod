@@ -1,8 +1,3 @@
-//
-//  AppDelegate.h
-//  AppScaffold
-//
-
 #import <UIKit/UIKit.h>
 #import "ViewController.h"
 
