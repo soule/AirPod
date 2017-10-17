@@ -14,10 +14,8 @@ This is only the sourcecode portion, and will need to be established in a proper
 Screenshots
 ----------- 
 
-![Main Menu](screenshot-menu.jpeg)
-![In-game screenshot](screenshot-ingame0.jpeg)
-![In-game screenshot](screenshot-ingame1.jpeg)
-![Difficulty Menu](screenshot-menu2.jpeg)
-![In-game screenshot](screenshot-ingame2.jpeg)
-
-
+<img src="screenshot-menu.jpeg" alt="Main Menu" width="320" height="480">
+<img src="screenshot-ingame0.jpeg" alt="In-game screenshot" width="320" height="480">
+<img src="screenshot-ingame1.jpeg" alt="In-game screenshot" width="320" height="480">
+<img src="screenshot-menu2.jpeg" alt="Difficulty Menu" width="320" height="480">
+<img src="screenshot-ingame2.jpeg" alt="In-game screenshot" width="320" height="480">
